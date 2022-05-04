@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Kaisei HarunoUmi', serif;
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+body {
+    margin-bottom: 2%;
+}
+
+.heading {
+    margin-top: 2%;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+button {
+    padding: 5px;
+    border-radius: 5px;
+    margin: 2%;
+}
+
+#pokemonList {
+    margin: 0 auto;
+    margin-bottom: 2%;
+    border: solid dotted black;
+    width: 500px;
+}
+
+#starWars {
+    margin: 0 auto;
+    margin-bottom: 2%;
+    border: solid dotted black;
+    width: 500px;
+}

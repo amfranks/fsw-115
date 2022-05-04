@@ -1,0 +1,71 @@
+{
+    "appetizers": [
+        {
+            "name": "wings",
+            "ingredients": ["Fried chicken wings", "salt / pepper", "sauce of your choosing"],
+            "description": "Chicken wings served with your selected sauce (Mild, Medium, Hot, or BBQ)."
+        },
+
+        {
+            "name": "calamari",
+            "ingredients": ["Fried calamari", "salt / pepper", "dipping sauce"],
+            "description": "Delicious fried calamari served with our world famous dipping sauce."
+        }
+    ],
+
+    "cold sandwiches": [
+        {
+            "name": "Italian mixed",
+            "ingredients": ["lettuce", "tomato", "pepperoni", "ham", "salami", "provolone cheese"], 
+            "description": "Italian mixed hard roll sandwich."
+        },
+
+        {
+            "name": "Turkey sub",
+            "ingredients": ["lettuce", "tomato", "turkey", "American cheese"],
+            "description": "Foot-long turkey sub."
+        }
+    ],
+
+    "hot sandwiches": [
+        {
+            "name": "Meatball sub",
+            "ingredients": ["5 meatballs", "salt / pepper", "marinara sauce", "American cheese"],
+            "description": "Foot-long melted meatball sub."
+        },
+
+        {
+            "name": "Ham and cheese",
+            "ingredients": ["ham", "hard roll", "American cheese", "bacon (optional)"],
+            "description": "Oven melted ham and cheese hard roll."
+        }
+    ],
+
+    "desserts": [
+        {
+            "name": "Milkshake",
+            "ingredients": ["milk", "ice-cream", "flavored syrup", "malt (optional)"],
+            "description": "Try our world famous milkshakes in your favorite ice-cream flavor!"
+        },
+
+        {
+            "name": "Cheesecake",
+            "ingredients": ["cheesecake", "whipped cream", "cherry"],
+            "description": "Delicious cheese cake."
+        }
+    ],
+
+    "drinks": [
+        {
+            "name": "Soda",
+            "ingredients": ["pepsi", "cola", "sprite", "root beer"],
+            "description": "Fountain soda in your favorite flavor."
+        },
+
+        {
+            "name": "Juice",
+            "ingredients": ["orange juice", "apple juice", "grape juice"],
+            "description": "Juice in your favorite flavor."
+        }
+    ]
+}
