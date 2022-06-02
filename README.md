@@ -1,3 +1,2 @@
-# fsda
-# fsw-115
-# fsw-115
+# FSW-115—Communication Over the Web - HTTP, AJAX, & APIs
+Students will learn about interactions over the internet using HTTP, including sending information to a server and consuming/using information from 3rd party APIs. Specific attention will be given to popular web techniques, including AJAX and APIs. Students will practice skills that demonstrate professional attitude and behavior (e.g. teamwork, leadership, and communication).
